@@ -1,0 +1,41 @@
+/* Custom styles */
+.floating-emoji {
+    pointer-events: none;
+    z-index: 100;
+}
+
+/* Tailwind customizations */
+@layer components {
+    .btn-primary {
+        @apply bg-purple-600 hover:bg-purple-700 text-white px-6 py-2 rounded-lg font-medium transition duration-300 transform hover:scale-105;
+    }
+    
+    .btn-secondary {
+        @apply border border-purple-600 text-purple-600 hover:bg-purple-50 px-6 py-2 rounded-lg font-medium transition duration-300;
+    }
+    
+    .card {
+        @apply bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition duration-300;
+    }
+}
+
+/* Animations */
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.bounce {
+    animation: bounce 1s infinite;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+    .mobile-stack {
+        flex-direction: column;
+    }
+}
