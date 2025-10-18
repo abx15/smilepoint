@@ -114,10 +114,10 @@ http://localhost/smilepoint/
 - **Role**: Full Stack Web Developer
 - 📧 Email: developerarunwork@gmail.com
 - 📞 Phone: +91-9129939972
-- 🌐 Portfolio: [https://taupe-fox-7af636.netlify.app/](https://taupe-fox-7af636.netlify.app/)
+- 🌐 Portfolio: [Arun15Dev](https://arun15dev.netlify.app/)
 - 🐙 GitHub: [https://github.com/abx15](https://github.com/abx15)
 - 💼 LinkedIn: [https://www.linkedin.com/in/arun-kumar-a3b047353/](https://www.linkedin.com/in/arun-kumar-a3b047353/)
-- 📷 Instagram: [https://www.instagram.com/\_\_\_\_abx15](https://www.instagram.com/____abx15?igsh=cXNmb3B5aGt5NnBu)
+- 📷 Instagram: [_abx15](https://www.instagram.com/____abx15?igsh=cXNmb3B5aGt5NnBu)
 
 - 👍 Facebook: [https://www.facebook.com/share/16QU53HraS](https://www.facebook.com/share/16QU53HraS)
 
